@@ -1,0 +1,13 @@
+{
+  "name": "nolari-devis",
+  "version": "1.0.0",
+  "description": "Générateur de devis Nolari Design pour cuisines IKEA",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}

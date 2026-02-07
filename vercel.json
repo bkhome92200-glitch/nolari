@@ -1,14 +1,3 @@
 {
-  "functions": {
-    "api/*.js": {
-      "runtime": "@vercel/node@3"
-    }
-  }
+  "version": 2
 }
-```
-
-5. Clique **"Commit changes"**
-
-6. Attends 2 minutes et reteste :
-```
-https://nolari.vercel.app/api/ikea?uuid=C579D42F-5A18-479C-8E2C-5D57B944124A
